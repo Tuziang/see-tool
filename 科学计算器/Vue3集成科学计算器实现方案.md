@@ -10,7 +10,7 @@
 
 工具页面截图：
 
-<img src="https://i-blog.csdnimg.cn/direct/43e28515e86b4e0e812d00fb7bafedda.png"/>
+![在这里插入图片描述](43e28515e86b4e0e812d00fb7bafedda.png)
 
 ## 技术栈
 
